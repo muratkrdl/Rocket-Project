@@ -1,7 +1,13 @@
 
 # Rocket-Project
 
-The goal in the game is to 
+The goal in the game is to pass the levels
+
+Player can move the rocket with "wasd" and "Space"
+
+If you can take the rocket from the takeoff point to the landing point(Green Cube), you will pass the level
+
+If the rocket hits any obstacle, the level starts from the beginning
 
 
 # Gameplay
